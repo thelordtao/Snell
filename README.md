@@ -26,7 +26,7 @@ chmod +x snell.sh
 在所有脚本运行结束后运行
 
 ```
-nano /etc/snell/snell-server.conf
+vi /etc/snell/snell-server.conf
 systemctl restart snell
 ```
 
